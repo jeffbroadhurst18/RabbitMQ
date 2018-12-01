@@ -1,0 +1,11 @@
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\bin\Debug\netcoreapp2.1\ReceiveLogDirect.deps.json
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\bin\Debug\netcoreapp2.1\ReceiveLogDirect.runtimeconfig.json
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\bin\Debug\netcoreapp2.1\ReceiveLogDirect.runtimeconfig.dev.json
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\bin\Debug\netcoreapp2.1\ReceiveLogDirect.dll
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\bin\Debug\netcoreapp2.1\ReceiveLogDirect.pdb
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\obj\Debug\netcoreapp2.1\ReceiveLogDirect.csprojAssemblyReference.cache
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\obj\Debug\netcoreapp2.1\ReceiveLogDirect.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\obj\Debug\netcoreapp2.1\ReceiveLogDirect.AssemblyInfoInputs.cache
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\obj\Debug\netcoreapp2.1\ReceiveLogDirect.AssemblyInfo.cs
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\obj\Debug\netcoreapp2.1\ReceiveLogDirect.dll
+C:\Users\Jeff\Source\Repos\RabbitMQ\ReceiveLogDirect\obj\Debug\netcoreapp2.1\ReceiveLogDirect.pdb
